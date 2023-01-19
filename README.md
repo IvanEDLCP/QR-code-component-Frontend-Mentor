@@ -25,6 +25,7 @@ It is a card that contains a QR code to go to the Frontend Mentor website.
 ### Links
 
 - Solution URL: [Git Hub](https://github.com/IvanEDLCP/QR-code-component-Frontend-Mentor)
+- Live Site URL: [QR Code live site](https://ivanedlcp.github.io/QR-code-component-Frontend-Mentor/)
 
 ## My process
 
